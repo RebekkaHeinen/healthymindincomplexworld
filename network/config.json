@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Rebekka Heinen"
   },
   "text": {
     "more": "Network visualizing the distribution and relations of keywords of project descriptions \nfor the healthy mind in complex world researchers",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
@@ -43,7 +43,7 @@
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 15
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
